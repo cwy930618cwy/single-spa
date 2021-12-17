@@ -2,6 +2,8 @@
 
 基于single-spa官方教程安装的single-spa-demo
 
+single-spa 能正常跑的demo
+
 // 多项目启动  
 cd base && npm run start  
 cd vue-app && npm run serve  
